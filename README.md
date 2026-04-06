@@ -5,11 +5,11 @@ Specialising in insurance analytics, process automation, and data-driven operati
 
 [Email](umar.talha1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/umar-talha/)
 
-## Professional Projects — Glow Insurance
+## Professional Projects — Insurance
 
 | Project | Description | Tools | Link |
 |---|---|---|---|
-| [Billing Delinquency Analysis](./projects/billing-delinquency/) | Interactive dashboard tracking carrier billing delinquency | Tableau | [Live Dashboard](https://public.tableau.com/authoring/Book1_17753550110450/BillingDelinquencyAnalysis#1) |
+| [Billing Delinquency Analysis](./projects/billing-delinquency/) | Interactive dashboard tracking carrier billing delinquency | Tableau | [Dashboard](https://public.tableau.com/authoring/Book1_17753550110450/BillingDelinquencyAnalysis#1) |
 
 ---
 
