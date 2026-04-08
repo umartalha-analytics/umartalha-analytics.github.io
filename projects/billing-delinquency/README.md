@@ -1,4 +1,4 @@
-## Billing Delinquency Analysis — Glow Insurance
+## Billing Delinquency Analysis — Insurance
 **Organisation:** Glow Insurance (Professional Work)
 **Tools:** Tableau
 **Type:** Individual — Operations Analytics
