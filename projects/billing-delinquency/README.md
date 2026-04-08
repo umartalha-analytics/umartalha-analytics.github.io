@@ -24,4 +24,7 @@ prioritise follow-up actions across multiple carriers.
 Gave the operations team a single source of truth for billing delinquency,
 replacing manual tracking and enabling faster identification of at-risk accounts.
 
-🔗 [View Interactive Dashboard (Tableau Public)](https://public.tableau.com/authoring/Book1_17753550110450/BillingDelinquencyAnalysis#1)
+### 📊 Interactive Dashboard
+[![Click to View Dashboard](https://public.tableau.com/static/images/Bi/BillingAnalysis_17754816279240/BillingDelinquencyAnalysis/1_rss.png)](https://public.tableau.com/views/BillingAnalysis_17754816279240/BillingDelinquencyAnalysis)
+
+> 💡 **Note:** If the interactive version above is slow to load, you can also view it directly on [Tableau Public here](https://public.tableau.com/views/BillingAnalysis_17754816279240/BillingDelinquencyAnalysis).
