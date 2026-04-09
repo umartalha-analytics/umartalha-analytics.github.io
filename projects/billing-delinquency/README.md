@@ -27,4 +27,4 @@ replacing manual tracking and enabling faster identification of at-risk accounts
 ### 📊 Interactive Dashboard
 [![Click to View Dashboard](https://public.tableau.com/static/images/Bi/BillingAnalysis_17754816279240/BillingDelinquencyAnalysis/1_rss.png)](https://public.tableau.com/views/BillingAnalysis_17754816279240/BillingDelinquencyAnalysis)
 
-> 💡 **Note:** If the interactive version above is slow to load, you can also view it directly on [Tableau Public here](https://public.tableau.com/app/profile/umar.talha/viz/BillingAnalysis_17754816279240/BillingDelinquencyAnalysis).
+
