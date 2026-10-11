@@ -1,7 +1,6 @@
-# Umar Talha — Business Analytics Portfolio
+# Umar Talha — Portfolio
 
 Operations Analyst | MSc Business Analytics, Aston University
-Specialising in insurance analytics, process automation, and data-driven operations.
 
 [Email](umar.talha1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/umar-talha/)
 
